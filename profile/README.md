@@ -9,3 +9,5 @@ The project was inspired by a scientific paper that, due to a simple math error 
 # How To Help / Get In Touch
 
 If you’d like to get involved, join our currently very active [WhatsApp group](https://chat.whatsapp.com/DRkjqk1pwTu1pDXC9oeC0q) (for high-level discussion) and/or [Discord](https://discord.gg/ynSY7q9y) (more focused on concrete implementation work). People are spontaneously organizing, sharing ideas, and getting started.
+
+We also have a [website](the-black-spatula-project.github.io) where we keep the most up to date information.
